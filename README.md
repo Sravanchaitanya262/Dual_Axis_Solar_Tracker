@@ -1,6 +1,6 @@
 # Dual_Axis_Solar_Tracker
 
-
+**Youtube Link** : https://youtu.be/-u5WfBMXSKA
 **Motivation** : 
 
   To make the Solar power plants more efficient in generating
